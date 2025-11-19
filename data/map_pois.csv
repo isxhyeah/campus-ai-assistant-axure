@@ -1,0 +1,7 @@
+id,name,type,building,floor,lat,lon
+POI_LIB,图书馆,library,图书馆,1,31.230,121.480
+POI_GYM,体育馆,gym,体育馆,1,31.231,121.482
+POI_A,教学楼A,teaching,教学楼A,1,31.229,121.479
+POI_B,教学楼B,teaching,教学楼B,1,31.228,121.481
+POI_C,实验楼C,labs,实验楼C,1,31.227,121.483
+POI_D,报告厅D,hall,报告厅D,1,31.232,121.484

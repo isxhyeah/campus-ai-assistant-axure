@@ -1,0 +1,2 @@
+# Store Axure binary with Git LFS to avoid repo bloat and diffs
+*.rp filter=lfs diff=lfs merge=lfs -text
