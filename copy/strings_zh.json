@@ -1,0 +1,30 @@
+{
+  "app": {
+    "title": "校园智能助手（PC）",
+    "nav": {
+      "home": "首页",
+      "chat": "助手",
+      "courses": "课程",
+      "notices": "通知",
+      "reserve": "预约",
+      "canteen": "食堂",
+      "map": "地图",
+      "tickets": "报修",
+      "me": "我的"
+    }
+  },
+  "chat": {
+    "placeholder": "问我任何校园相关问题…",
+    "thinking": "正在思考…",
+    "send": "发送",
+    "fallback": "我没太明白你的意思。可以试试：课表、预约、食堂、通知、地图、报修。"
+  },
+  "actions": {
+    "view_detail": "查看详情",
+    "go_reserve": "去预约",
+    "open_map": "打开地图",
+    "submit": "提交",
+    "filter": "筛选",
+    "theme_toggle": "切换主题"
+  }
+}

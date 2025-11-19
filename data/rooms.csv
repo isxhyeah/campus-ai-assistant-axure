@@ -1,0 +1,7 @@
+id,building,room,capacity,available,equipment
+R101,图书馆,自习区-1,60,true,插座|安静区
+R102,图书馆,自习区-2,40,true,插座|讨论区
+R201,教学楼A,教室-201,48,false,投影|白板
+R305,教学楼B,教室-305,60,true,投影|麦克风
+C102,实验楼C,实验室-102,30,true,电脑|投影
+GYM1,体育馆,活动室-1,20,true,地垫|音响
